@@ -1,0 +1,8 @@
+Ana Silva, ana@mail.com, WOOD
+Bob, bob@mail.com, ART
+
+Carla Mendes , carla@mail.com , GARDEN , 555-0101
+ , dan@mail.com, BIKE
+Eve Stone, eve.mail.com, CODE
+Frank Lee, frank@mail, BIKE
+Gina Ruiz, ANA@mail.com, CODE
